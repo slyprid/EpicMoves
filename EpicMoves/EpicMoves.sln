@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpicMoves", "EpicMoves\EpicMoves.csproj", "{849C4DFA-26CC-4C7C-80D1-A81A91B0E651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relm", "..\..\Relm\Relm\Relm\Relm.csproj", "{17D3458C-760A-4FB0-B72D-3BE30B957486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{849C4DFA-26CC-4C7C-80D1-A81A91B0E651}.Debug|x86.ActiveCfg = Debug|x86
+		{849C4DFA-26CC-4C7C-80D1-A81A91B0E651}.Debug|x86.Build.0 = Debug|x86
+		{849C4DFA-26CC-4C7C-80D1-A81A91B0E651}.Release|x86.ActiveCfg = Release|x86
+		{849C4DFA-26CC-4C7C-80D1-A81A91B0E651}.Release|x86.Build.0 = Release|x86
+		{17D3458C-760A-4FB0-B72D-3BE30B957486}.Debug|x86.ActiveCfg = Debug|x86
+		{17D3458C-760A-4FB0-B72D-3BE30B957486}.Debug|x86.Build.0 = Debug|x86
+		{17D3458C-760A-4FB0-B72D-3BE30B957486}.Release|x86.ActiveCfg = Release|x86
+		{17D3458C-760A-4FB0-B72D-3BE30B957486}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48C3A7C7-41A2-4C90-B4A3-DD4A1D3CF3FD}
+	EndGlobalSection
+EndGlobal
